@@ -1,5 +1,7 @@
-## Please note this is an Arm fork with some enhancements listed below.
+# Deprecation Notice
+Vktrace has been deprecated. Please use `gfxreconstruct-arm` instead, you can get it from https://github.com/ARM-software/gfxreconstruct-arm.
 
+## Please note this is an Arm fork with some enhancements listed below.
 1. Preload trace file to memory for performance test.
 2. Arm linux build with headless support.
 3. Enhanced device simulation layer.
